@@ -1,5 +1,9 @@
 
 END{
-puts "this is ending"
+puts "this is ending";
+}
+BEGIN{
+puts "this is begning";
 }
 puts "hello"
+
