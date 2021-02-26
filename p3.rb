@@ -1,4 +1,5 @@
-puts "hello"
-BEGIN{
-puts "this is begning"
+
+END{
+puts "this is ending"
 }
+puts "hello"
