@@ -1,9 +1,4 @@
-
-END{
-puts "this is ending";
-}
-BEGIN{
-puts "this is begning";
-}
-puts "hello"
-
+puts "hello" #this is a puts 
+=begin
+hello this is a multiline commenting
+=end 
